@@ -1,0 +1,1 @@
+Repositório dedicado à guardar os códigos dos problemas do Beecrowd resolvidos por mim. 
