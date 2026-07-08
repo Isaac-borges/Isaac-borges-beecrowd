@@ -5,7 +5,7 @@ int main(void)
 {
     double raio, area;
 
-    fscanf(stdin, "%lf", &raio);  
+    fscanf(stdin, "%lf", &raio);
 
     area = 3.14159 * pow(raio, 2);
 

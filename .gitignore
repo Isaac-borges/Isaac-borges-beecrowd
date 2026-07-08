@@ -1,2 +1,16 @@
 *.exe
 .vscode
+
+
+
+*.o
+*.a
+*.out
+
+
+!*.c
+!*.h
+!*.cpp
+!*.hpp
+
+!.gitignore
